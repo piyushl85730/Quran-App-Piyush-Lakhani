@@ -2,11 +2,8 @@ package com.app.quran.realm;
 
 import android.content.Context;
 import android.util.Log;
-
 import com.app.quran.realm.model.Quran;
-
 import java.util.ArrayList;
-
 import io.realm.Realm;
 import io.realm.RealmList;
 import io.realm.RealmResults;

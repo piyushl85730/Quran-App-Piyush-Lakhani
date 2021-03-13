@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.app.quran.R;
 import com.app.quran.realm.model.Quran;
 
-import java.util.ArrayList;
 
 import io.realm.RealmList;
 
